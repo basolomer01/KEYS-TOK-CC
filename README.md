@@ -1,6 +1,13 @@
 # key-tok-CC
-Contact email: basolomer478@gmail.com If you encounter any problems during use, you can contact us and we will provide technical support for you
+Dear key tok CC user
 
-![ce264c6f84d9a2cb0d09db6a7cc6973](https://github.com/basolomer01/key-tok-CC/assets/151312604/a701e0d9-8194-49b8-a210-3f388689df96)
+If you encounter any problems or have any good suggestions during use, please feel free to contact us
 
-![ce264c6f84d9a2cb0d09db6a7cc6973](https://github.com/basolomer01/key-tok-CC/assets/151312604/5ea03eb5-f7f9-42ea-a7bd-56af27a69cb7)
+If you are not familiar with the use of features or need suggestions for improvement, you can also contact us
+
+email: basolomer478@gmail.com 
+author：basolomer
+
+
+![12](https://github.com/basolomer01/key-tok-CC/assets/151312604/2f291322-d097-4ebc-a910-31d1606707cf)
+![13](https://github.com/basolomer01/key-tok-CC/assets/151312604/26f9d037-278f-48f5-b772-e9473643bc79)
